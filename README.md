@@ -1,5 +1,9 @@
 ##How to Execute the Script##
 
+####Script Name####
+
+run\_analysis.R
+
 ####Dependencies####
 
 1. Availability of the input data [file URL](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
