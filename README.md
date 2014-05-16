@@ -79,4 +79,8 @@ The file features\_info.txt contains information about the variables used on the
 1. Keep the name easy to understand
 2. Keep the name short
 3. Use 'camel' style, capitalize every word starting from the second word. ex: tBodyAccMeanX 
-   
+
+
+##Other Information##
+
+CodeBook.md contains information about the nature of the data processed, data types, and data definitions.   
